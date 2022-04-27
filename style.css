@@ -30,8 +30,10 @@ input[type=text] {
   }
   .section {
     width: 422px;
-    height: 583px;
-    background-color: #FF5E14 ;
+    padding: 20px;
+    background-color: #FF5E14;
+    border-radius: 12px 0px 0px 0px;
+
 
   }
   .buttom_buttom{
@@ -76,9 +78,12 @@ input[type=text] {
     height: 35.32px;
     border: 12px 0px;
     border-radius: 12px 0px;
+   
   
-
-
+  }
+  .white_color
+  {
+    color: white;
   }
  
   .submit2 button {
@@ -88,6 +93,7 @@ input[type=text] {
     border: 12px 0px;
     margin-left: 25px;
     border-radius: 12px 0px;
+    
 
 
 
@@ -116,6 +122,7 @@ input[type=text] {
     width: 150px;
 
 }
+
 
  
   
