@@ -1,0 +1,128 @@
+
+input[type=text] {
+    width: 305px;
+    height: 31px;
+    padding: 12px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    background: #F7F9FA;
+    border: 1px solid #FF5E14;
+    border-radius: 8px;
+  }
+  .form {
+    
+        width: 305px;
+        margin: auto;
+    
+  }
+  .text1{
+    justify-content: end;
+    display: flex;
+  }
+  .text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    margin-left: 58px;
+  }
+  .section {
+    width: 422px;
+    height: 583px;
+    background-color: #FF5E14 ;
+
+  }
+  .buttom_buttom{
+    width: 306px;
+    margin: auto;
+    margin-top: 30px;    
+  }
+  .buttom_buttom button {
+      width: 306px;
+      height: 35.32px;
+     background: #FFFFFF;
+     border: 1px solid #FF5E14;
+     border-radius: 12px 0px;
+
+  }
+ 
+  .submit_1_1 button {
+      width : 150px;
+      height : 35px;
+      border-radius : 12px 0px;
+      background:  #363984;
+       position: absolute;
+      
+  }
+  .submit_child {
+    position: relative;
+    top: 6px;
+    left: 19px;
+
+     
+  }
+  .buttom{
+    width: 306px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between; 
+  }
+  .submit1 button {
+    width: 150px;
+    background: #363984;
+    height: 35.32px;
+    border: 12px 0px;
+    border-radius: 12px 0px;
+  
+
+
+  }
+ 
+  .submit2 button {
+    width: 150px;
+    background: #BA2D2D;
+    height: 35.32px;
+    border: 12px 0px;
+    margin-left: 25px;
+    border-radius: 12px 0px;
+
+
+
+  }
+  .submit1 {
+      position: absolute;
+  }
+  .submit_img1{
+    position: relative;
+    top: 6px;
+    left: 19.1px;
+
+  }
+  .submit2 {
+    position: absolute;
+}
+.submit_img2{
+ 
+  position: relative;
+    top: 8px;
+    left: 37px;
+
+
+}
+.buttom1 , .buttom2 {
+    width: 150px;
+
+}
+
+ 
+  
+ 
+ 
+
+  
+
+      
+  
