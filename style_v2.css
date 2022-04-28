@@ -203,3 +203,18 @@
 .cs-label-prymary {
     color: var(--cs-primary-color)
 }
+
+#overlay-popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 90000060;
+}
+
+.login_popup {
+    display: none;
+    z-index: 90000090;
+}
